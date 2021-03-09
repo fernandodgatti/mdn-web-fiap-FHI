@@ -1,0 +1,30 @@
+$dourado-color: #a37c29;
+
+:host {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+      }
+
+  .content { 
+    margin-top: 76px;
+}
+
+
+  .toolbar {
+    width: 100%;
+    line-height: 24px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 18px;
+    color: white;
+    float: left;
+    text-align: center;
+    background-color: $dourado-color;
+  }
+  
+
+  
